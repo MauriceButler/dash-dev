@@ -1,0 +1,11 @@
+{
+  "name": "-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT"
+}
